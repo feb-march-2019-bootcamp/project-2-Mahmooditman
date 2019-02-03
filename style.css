@@ -28,11 +28,13 @@ font-size: 300%;
 font-weight: normal;
 }
 
+
 nav ul {
   text-align: left;
   position: fixed;
   width: 100%;
   background-color: #a2d196;
+
 }
 
 nav ul li {
@@ -44,6 +46,7 @@ nav ul li {
   margin-left: 0px;
   margin-bottom: 20px;
   margin-top: 20px;
+  white-space: wrap;
 }
 
 nav ul li a {
